@@ -8,13 +8,13 @@ A powerful Python-based email analysis tool that scans emails for malicious URLs
 
 ## 🌟 Features
 
-- ** Email Parsing**: Analyzes .eml files with full header inspection
-- ** URL Extraction**: Automatically extracts and scans all URLs from email body
-- ** Attachment Analysis**: Scans attachments for malware using SHA256 hashing
-- ** VirusTotal Integration**: Real-time threat detection via VirusTotal API
-- ** Multi-Format Support**: Extracts URLs from PDF, DOCX, TXT, HTML, and more
-- ** Clear Verdicts**: Easy-to-understand MALICIOUS/SUSPICIOUS/CLEAN ratings
-- ** Batch Processing**: Analyze multiple emails at once
+- Email Parsing: Analyzes .eml files with full header inspection
+- URL Extraction: Automatically extracts and scans all URLs from email body
+- Attachment Analysis: Scans attachments for malware using SHA256 hashing
+- VirusTotal Integration: Real-time threat detection via VirusTotal API
+- Multi-Format Support: Extracts URLs from PDF, DOCX, TXT, HTML, and more
+- Clear Verdicts: Easy-to-understand MALICIOUS/SUSPICIOUS/CLEAN ratings
+- Batch Processing: Analyze multiple emails at once
 
 ## 🚀 Quick Start
 
