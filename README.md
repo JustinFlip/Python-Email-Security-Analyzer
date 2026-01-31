@@ -4,7 +4,6 @@
 A powerful Python-based email analysis tool that scans emails for malicious URLs, suspicious attachments, and security threats using VirusTotal integration.
 
 ![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
 ## 🌟 Features
@@ -133,20 +132,6 @@ This tool uses the VirusTotal API v3 for threat detection:
 
 Get your free API key: https://www.virustotal.com/gui/join-us
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## ⚠️ Disclaimer
 
 This tool is for educational and security research purposes only. Always ensure you have permission to analyze emails and attachments. The author is not responsible for misuse of this tool.
@@ -156,11 +141,6 @@ This tool is for educational and security research purposes only. Always ensure 
 **Justin Flip**
 
 - GitHub: https://github.com/JustinFlip
-
-## 🙏 Acknowledgments
-
-- [VirusTotal](https://www.virustotal.com) for their excellent API
-- Python community for amazing libraries
 
 ## 📮 Support
 
