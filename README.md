@@ -155,7 +155,7 @@ This tool is for educational and security research purposes only. Always ensure 
 
 **Justin Flip**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: https://github.com/JustinFlip
 
 ## 🙏 Acknowledgments
 
