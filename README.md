@@ -27,7 +27,7 @@ A powerful Python-based email analysis tool that scans emails for malicious URLs
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/email-security-analyzer.git
+git clone https://github.com/JustinFlip/email-security-analyzer.git
 cd email-security-analyzer
 ```
 
